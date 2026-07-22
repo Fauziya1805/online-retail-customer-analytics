@@ -12,6 +12,11 @@ This project delivers an end-to-end business intelligence solution to analyze cu
 
 ---
 
+## 📈 Power BI Dashboard Preview
+![Power BI Dashboard Preview](dashboard_preview.png)
+
+---
+
 ## 📊 Project Structure
 ```text
 ├── online_retail_analysis.ipynb   # Data cleaning, EDA, and ETL pipeline
